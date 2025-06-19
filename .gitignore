@@ -1,1 +1,10 @@
 .ipynb_checkpoints/
+coin_features_pca.pkl
+coin_features_pca_coin_clip.pkl
+coin_kmeans_clusters.csv
+coin_labels.npy
+coin_latents.npy
+plot.html
+umap_by_label.html
+umap_by_label_with_legend.html
+variance_pca.png
