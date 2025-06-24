@@ -8,3 +8,8 @@ plot.html
 umap_by_label.html
 umap_by_label_with_legend.html
 variance_pca.png
+elbos.pkl
+Variance_PCA.png
+elbos.pkl
+hdp_training.log
+state_range.pkl
