@@ -13,3 +13,5 @@ Variance_PCA.png
 elbos.pkl
 hdp_training.log
 state_range.pkl
+*.xlsx
+*.csv
