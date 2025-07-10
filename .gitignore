@@ -15,3 +15,5 @@ hdp_training.log
 state_range.pkl
 *.xlsx
 *.csv
+*.png
+*.pkl
