@@ -1,6 +1,7 @@
 Goethe University Frankfurt, Data Challenges SoSe 2025
 
 Team: A-Tim
+
 Contributors: Alexander Schleiter, Tim Stadager
 
 Notebook usage order:
